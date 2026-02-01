@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o **Sinval Júnior** 🚀  
 
-> 💡 *Front End Developer | Apaixonado por tecnologias, inovação e colaboração.*  
+> 💡 *Developer | Apaixonado por tecnologias, inovação e colaboração.*  
 
 ---
 
